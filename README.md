@@ -1,0 +1,1 @@
+# FOR_RADEON_AMD
